@@ -38,6 +38,10 @@ ColorTap（以下稱「本 App」）由 brianhsux 開發。本政策說明本 Ap
 
 這些資料只有本 App 能讀取。解除安裝本 App 時，這些資料會一併刪除。
 
+### 匯出與匯入
+
+你可以在 App 裡把資料匯出成一個 zip 檔，存放位置由你在系統視窗中選擇（例如手機的下載資料夾或你的雲端硬碟）。匯出與匯入都只在你操作時進行，開發者無法取得這些檔案。
+
 ### Android 系統備份
 
 如果你在手機上開啟了 Android 的系統備份功能，Android 可能會把本 App 的資料（上述流程設定與範本）備份到**你自己的** Google 帳號。這是由 Android 系統與你的帳號設定處理，開發者無法存取這些備份。
@@ -94,6 +98,10 @@ Flows, tasks, tap positions, delays, and color settings you create are stored in
 If you use "screen states" and select a screen region, a downscaled image of that region (at most 96 pixels on the longest side) is saved as a template, also only on your device.
 
 Only the app can read this data. It is deleted when you uninstall the app.
+
+### Export and import
+
+You can export your data as a zip file from within the app and choose where to save it (for example, your device's Downloads folder or your own cloud drive). Export and import only happen when you choose to, and the developer cannot access these files.
 
 ### Android system backup
 
