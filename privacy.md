@@ -34,7 +34,7 @@ ColorTap（以下稱「本 App」）由 brianhsux 開發。本政策說明本 Ap
 ### 你建立的流程與畫面範本
 
 你建立的流程、任務、點擊座標、延遲時間與色點設定，會存在本 App 的私有儲存空間中。
-如果你使用「畫面狀態」並框選了畫面區域，本 App 會把該區域縮小後的小圖（最長邊 96 像素）存成範本，同樣只存在手機中。
+如果你使用「畫面」或「看到這塊圖再點」步驟並框選了畫面區域，本 App 會把該區域縮小後的小圖（最長邊 96 像素）存成範本，同樣只存在手機中。
 
 這些資料只有本 App 能讀取。解除安裝本 App 時，這些資料會一併刪除。
 
@@ -95,7 +95,7 @@ The app only takes you to the system settings to enable the service after you ha
 ### Flows and screen templates you create
 
 Flows, tasks, tap positions, delays, and color settings you create are stored in the app's private storage.
-If you use "screen states" and select a screen region, a downscaled image of that region (at most 96 pixels on the longest side) is saved as a template, also only on your device.
+If you use "screens" or a "Tap when image matches" step and select a screen region, a downscaled image of that region (at most 96 pixels on the longest side) is saved as a template, also only on your device.
 
 Only the app can read this data. It is deleted when you uninstall the app.
 
