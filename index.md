@@ -1,8 +1,8 @@
 ---
-title: ColorTap
+title: Clickstep
 ---
 
-# ColorTap
+# Clickstep
 
 自動點擊與色點判斷的 Android App。排好步驟自動點擊，看顏色再決定要不要點。
 

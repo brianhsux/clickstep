@@ -1,15 +1,15 @@
 ---
-title: ColorTap 隱私權政策 / Privacy Policy
+title: Clickstep 隱私權政策 / Privacy Policy
 permalink: /privacy/
 ---
 
 <!-- 來源：AiClick repo 的 docs/privacy-policy.md，修改時請改來源再複製過來。 -->
 
-# ColorTap 隱私權政策
+# Clickstep 隱私權政策
 
 生效日期：2026 年 10 月 8 日
 
-ColorTap（以下稱「本 App」）由 brianhsux 開發。本政策說明本 App 如何處理你的資料。
+Clickstep（以下稱「本 App」）由 brianhsux 開發。本政策說明本 App 如何處理你的資料。
 
 ## 摘要
 
@@ -66,11 +66,11 @@ ColorTap（以下稱「本 App」）由 brianhsux 開發。本政策說明本 Ap
 
 ---
 
-# ColorTap Privacy Policy
+# Clickstep Privacy Policy
 
 Effective date: October 8, 2026
 
-ColorTap ("the app") is developed by brianhsux. This policy explains how the app handles your data.
+Clickstep ("the app") is developed by brianhsux. This policy explains how the app handles your data.
 
 ## Summary
 
