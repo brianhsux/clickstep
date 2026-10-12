@@ -7,7 +7,7 @@ permalink: /privacy/
 
 # Clickstep 隱私權政策
 
-生效日期：2026 年 10 月 8 日
+生效日期：2026 年 10 月 12 日
 
 Clickstep（以下稱「本 App」）由 brianhsux 開發。本政策說明本 App 如何處理你的資料。
 
@@ -46,6 +46,12 @@ Clickstep（以下稱「本 App」）由 brianhsux 開發。本政策說明本 A
 
 如果你在手機上開啟了 Android 的系統備份功能，Android 可能會把本 App 的資料（上述流程設定與範本）備份到**你自己的** Google 帳號。這是由 Android 系統與你的帳號設定處理，開發者無法存取這些備份。
 
+### 付費功能（Clickstep Pro）
+
+Clickstep Pro 的訂閱與一次買斷都由 **Google Play** 處理，付款資料（例如信用卡）由 Google 保管，本 App 和開發者都拿不到。
+本 App 透過 Google Play 帳款服務程式庫（Google Play Billing Library），向手機上的 Play 商店 App 查詢你是否擁有 Pro，只取得「擁有哪一種方案、是否有效」，並把結果存在手機裡，讓沒有連線時也能使用。
+這個查詢只在手機內進行，本 App 仍然沒有網路權限。Google Play 如何處理你的付款資料，適用 Google 的隱私權政策。
+
 ### 其他權限
 
 - **顯示於其他應用程式上層**：用來在畫面上顯示可拖移的步驟圓圈和執行中的停止按鈕。
@@ -68,7 +74,7 @@ Clickstep（以下稱「本 App」）由 brianhsux 開發。本政策說明本 A
 
 # Clickstep Privacy Policy
 
-Effective date: October 8, 2026
+Effective date: October 12, 2026
 
 Clickstep ("the app") is developed by brianhsux. This policy explains how the app handles your data.
 
@@ -106,6 +112,12 @@ You can export your data as a zip file from within the app and choose where to s
 ### Android system backup
 
 If you have enabled Android system backup, Android may back up the app's data (the flows and templates above) to **your own** Google account. This is handled by Android and your account settings; the developer cannot access these backups.
+
+### Paid features (Clickstep Pro)
+
+Clickstep Pro subscriptions and the one-time purchase are handled by **Google Play**. Payment details (such as your card) are kept by Google; neither the app nor the developer can see them.
+The app uses the Google Play Billing Library to ask the Play Store app on your device whether you own Pro. It only receives which plan you own and whether it is active, and stores that result on your device so Pro works offline.
+This check happens on your device, and the app still has no Internet permission. Google's privacy policy applies to how Google Play handles your payment information.
 
 ### Other permissions
 
